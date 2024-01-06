@@ -2,7 +2,7 @@
 # Project Description: Moon-API Integrated Meeting Bot
 
 ## Challenge
-Traditional online meetings lack real-time recognition and financial rewards for participant contributions.
+Traditional online meetings lack real-time recognition and financial rewards for participant contributions. Additionally, there is typcially no mechanism in place for conditions and storage on meeting recognition - such as sending a user crypto if they get 5 "claps" while they are presneting...or storing the total number of "claps" a participant receives throughout the year.
 
 
 ## Solution
