@@ -26,19 +26,19 @@ This dApp, utilizing the Moon-API, is a blockchain-based platform for engagement
 ## How It Works
 The Meeting Bot utilizes the Moon-API library to simplify interactions with the Moon blockchain platform.
 
--**Pre-Built Components and SDK:** 🛠️
+-  **Pre-Built Components and SDK:** 🛠️
    The Moon platform provides pre-built components and an SDK forming the basis for the Meeting Bot.
 
--**User Authentication:** 🔐
+-  **User Authentication:** 🔐
    Participants securely log in, granting the Meeting Bot access to sign transactions from their Moon Wallets.
 
--**JWT Acquisition:** 🌐
+- **JWT Acquisition:** 🌐
    After authentication, the Meeting Bot acquires a JWT to sign transactions when users interact.
 
--**Secure Private Key Storage:** 🔐
+- **Secure Private Key Storage:** 🔐
    The HashCorp Vault securely stores private keys authenticated by the Moon-API, ensuring robust cryptographic security.
 
--**Smart Contract Conditional Logic:** 🧠
+- **Smart Contract Conditional Logic:** 🧠
    Selecting reactions, sending crypto, and voting are governed by smart contract logic.
 
 ## Front End 
