@@ -9,13 +9,14 @@ Additionally, there is typcially no mechanism in place for conditions and storag
 
 ## Solution
 
-This dApp, utilizing with Moon-API, addresses engagement and financial rewards during virtual meetings.
+This dApp, utilizing with Moon-API, is a blockchain-based platform for engagement and financial rewards during virtual meetings.
 
 - **Authentication via Moon-API:**
   Users log in securely, granting access to sign transactions from their Moon Wallets.
 
-- **Real-Time Recognition and Rewards:**
-  Express reactions, cast votes, and receive crypto rewards for valuable contributions, all captured on the blockchain.
+- **Real-Time Recognition and Rewards on the Blockchain:**
+  Express reactions, cast votes, and receive crypto rewards for valuable contributions, all captured on the blockchain. Transactions are dictated my smart contract logic, and meeting reaction/reward/voting data can be 
+  queried/anaylzed on the blockchian
 
 - **Simple UI for Interactions:**
   User-friendly interface for seamless interactions. Simple meeting participant list with options to react, send crypto, or set up a vote with other authenticated meeting participants.
