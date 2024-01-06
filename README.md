@@ -4,9 +4,6 @@
 ## Challenge
 Traditional online meetings lack real-time recognition and financial rewards for participant contributions.
 
-**Target Audience:**
-- Team leads and organizers
-- Participants seeking an engaging and rewarding meeting experience.
 
 ## Solution
 **Ideal Solution:**
@@ -38,6 +35,12 @@ The Meeting Bot utilizes the Moon-API library to simplify interactions with the 
    - The HashCorp Vault securely stores private keys authenticated by the Moon-API, ensuring robust cryptographic security.
 
 ## Why it Matters
+
+**Target Audience:**
+- Team leads and organizers
+- Participants seeking an engaging and rewarding meeting experience.
+
+
 **Impact on Target Audience:**
 - **Enhanced Engagement:**
   Participants feel recognized and rewarded in real-time.
