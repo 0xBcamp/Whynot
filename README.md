@@ -6,7 +6,7 @@ Traditional online meetings lack real-time recognition and financial rewards for
 
 
 ## Solution
-**Ideal Solution:**
+
 This dApp, utilizing with Moon-API, addresses engagement and financial rewards during virtual meetings.
 
 - **Authentication via Moon-API:**
